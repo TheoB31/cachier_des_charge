@@ -1,0 +1,76 @@
+Introduction :
+ 
+application web mobile pour trouver des activité 
+
+intervenant principal :
+-théo broquet
+
+contexte :
+
+objectif de l'application:
+création d'une application qui permet de trouvé une activité dans la region projet d'une carte interactive qui permet de choisir son département.
+cette aplication pourra contenir des comptes pour pouvoir laisser des commentaire.
+cible de l'aplication 
+
+- tout type de personnes mais l' application est axé plus sur les jeunes.
+- recherche plus les profile qui cherche a s'occupé dans l'occitanie
+-particulier
+
+description de l'existant
+//
+concurrence  :
+// 
+
+graphisme est ergonomie :
+
+pour les couleur et le graphisme reprendre le style graphique du site web discord.
+https://discord.com/?msclkid=19aa16eecf7511ecba18ef2def2b3ff7
+couleurs plutot vive 
+logo de l'application simple 
+typo : 
+bouton : - essayer de pas mettre beaucoup de fonctionnalité dans l'interface principal ce contenté du minimeume.
+	 - rendre les bouton visble et facile d'utilisation
+
+arborescence :
+
+carte interractive 
+	depatement selectionné 
+		carte du departement avec les points ou sont les activité
+connection 
+	espace personnel possibilité d'enregistré des activité
+		possibilité de laisser des commentaire
+
+information contenus : 
+images 
+liens vers site 
+bulle de texte
+
+
+definition des besoin 
+
+accesible pour tout le monde 
+possiblité de ce connecter 
+utilisation simple 
+
+contrainte technique :
+//
+
+planning 
+
+finr avant le passage du titre
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
